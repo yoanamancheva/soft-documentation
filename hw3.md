@@ -19,7 +19,6 @@ You can search for files via their names. You have to type the name of the file 
 There are two options for uploading files. You can either drop them in the "Drop files here" section or choose them from your computer. They have to appear in the queue section.
 In both ways you have two options to "Unpack zips in current folder" and to "Overwrite if existing".
 ![upload_img](upload.PNG)
-
 ### Upload queue
 After you upload your files, they will appear in the "Upload queue" section.
 The progress bar shows how much of the files are already uploaded.
