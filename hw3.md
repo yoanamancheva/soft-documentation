@@ -40,16 +40,17 @@ The progress bar shows how much of the files are already uploaded.
 There are options that gives you the opportunity the modify the current folder. 
 You can downloading zip folder of all files and delete files.
 
-* New folder
-With this button you can create new folder in the current one.
+*New folder*- create new folder in the current one.\
 ![new_folder_img](new_folder.PNG)
 
 ### File options
-With these buttons you have the opportunity to modify the current file. 
+With these buttons you have the opportunity to modify the current file.\
 ![buttons_img](buttons.PNG)
 
 * *Preview* - opens the file in new tab
 * *Download* - downloads the file
-* *Rename* - renames the file
-* *Delete* - deletes the file
+* *Rename* - renames the file\
+![rename_img](rename.PNG)
+* *Delete* - deletes the file\
+![delete_img](delete.PNG)
 
