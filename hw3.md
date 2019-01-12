@@ -1,7 +1,7 @@
 # Documents Perspective
 Eclipse Dirigible ™ is a Cloud Development Platform providing development tools and runtime environment. 
-It contains the option for documents perspective.
-The **Documents perspective** is the place where the user manages the binary artifacts such as pictures, spreadsheets, PDF files, etc.
+It contains the option for documents perspective.\
+**The Documents perspective** is the place where the user manages the binary artifacts such as pictures, spreadsheets, PDF files, etc.
 It enables him/her to upload, overwrite, download, delete and search for artifacts.
 At the moment the view is called Documents.
 ![view_img](view.PNG)
@@ -35,4 +35,21 @@ The progress bar shows how much of the files are already uploaded.
 * *Remove all* - deletes all the files in the queue
 
 ![queue_img](queue.PNG)
+
+### Folder options
+There are options that gives you the opportunity the modify the current folder. 
+You can downloading zip folder of all files and delete files.
+
+* New folder
+With this button you can create new folder in the current one.
+![new_folder_img](new_folder.PNG)
+
+### File options
+With these buttons you have the opportunity to modify the current file. 
+![buttons_img](buttons.PNG)
+
+* *Preview* - opens the file in new tab
+* *Download* - downloads the file
+* *Rename* - renames the file
+* *Delete* - deletes the file
 
