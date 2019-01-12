@@ -37,8 +37,8 @@ The progress bar shows how much of the files are already uploaded.
 ![queue_img](queue.PNG)
 
 ### Folder options
-There are options that gives you the opportunity the modify the current folder. 
-You can downloading zip folder of all files and delete files.\
+There are options that gives you the opportunity to modify the current folder. 
+You can download zip folder of all files and delete files.\
 ![options_img](options.PNG)
 
 * *New folder*- create new folder in the current one.\
